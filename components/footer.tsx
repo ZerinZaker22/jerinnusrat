@@ -57,7 +57,7 @@ return (
             <Instagram className="h-5 w-5" />
           </Link>
           <Link
-            href="https://drive.google.com/file/d/170kcmNnzzHSkDmbHlhe8jM7fGYy6Hzjc/view?usp=sharing"
+            href="https://drive.google.com/file/d/184cU2APscBD7YZrxGldovdjonpELex0t/view"
             target="_blank"
             rel="noopener noreferrer"
             className={cn(
