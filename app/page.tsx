@@ -73,7 +73,7 @@ className={`relative py-16 sm:py-24 lg:py-32 min-h-[calc(100vh-80px)] flex items
           <Instagram className="h-6 w-6" />
         </Link>
         <Link
-          href="https://drive.google.com/file/d/170kcmNnzzHSkDmbHlhe8jM7fGYy6Hzjc/view?usp=sharing"
+          href="https://drive.google.com/file/d/184cU2APscBD7YZrxGldovdjonpELex0t/view"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center space-x-2 p-2 rounded-lg transition-colors border border-gray-600 hover:border-gray-500 hover:bg-gray-800"
